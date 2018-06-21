@@ -1,5 +1,18 @@
 #code your solutions here
 
+perfect_10_recipe = {
+:gluten_freewhole_oats => "1 cup",
+:kosher_salt => "1/2 teaspoon",
+:baking_powder => "1/2 teaspoon",
+:baking_soda => "1/4 teaspoon",
+:Xanthan_Gum => "1/2 teaspoon",
+¼ cup slivered almonds, lightly toasted
+¾ cup mini dark chocolate chips
+½ cup olive oil
+¼ cup agave
+}
+
+
 #1. Create a hash called `perfect_10_recipe` that has the following data:
 #  - almond flour - 2 cups
 #  - gluten freewhole oats - 1 cup
@@ -14,7 +27,9 @@
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
-def recipe_ingredients(perfect_10_recipe)
+
+def recipe_ingredients(recipe) 
+  return recipe
 end
 
 #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
