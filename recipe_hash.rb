@@ -7,8 +7,8 @@ perfect_10_recipe = {
 :baking_soda => "1/4 teaspoon",
 :Xanthan_Gum => "1/2 teaspoon",
 :lightly_toasted_slivered_almonds => "1/4 cup"
-¾ cup mini dark chocolate chips
-½ cup olive oil
+:mini_dark_chocolate_chips => "3/4 cup"
+:olive_oil => "1/2 cup"
 ¼ cup agave
 }
 
