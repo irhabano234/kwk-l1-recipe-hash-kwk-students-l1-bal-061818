@@ -6,7 +6,7 @@ perfect_10_recipe = {
 :baking_powder => "1/2 teaspoon",
 :baking_soda => "1/4 teaspoon",
 :Xanthan_Gum => "1/2 teaspoon",
-:lightly_toasted_slivered_almonds => "3/4 cup"
+:lightly_toasted_slivered_almonds => "1/4 cup"
 ¾ cup mini dark chocolate chips
 ½ cup olive oil
 ¼ cup agave
